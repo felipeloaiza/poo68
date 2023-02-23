@@ -24,7 +24,7 @@
                public $Color;
                // Methods
                public function setAttributes($brand, $refer, $Model, $Color){
-               $this ->BMW = $brand;
+               $this ->brand = $brand;
                $this ->refer = $refer;
                $this ->Model = $Model;
                $this ->Color = $Color;
